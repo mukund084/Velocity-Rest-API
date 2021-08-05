@@ -1,3 +1,18 @@
+// Array of Markers
+
+const Markers = [
+    {
+        id: 1,
+        x: 0,
+        y:0,
+        image_url: 
+        description: 
+        location:
+
+    }
+];
+
+
 const data = {
     getting_started: [
         {
@@ -106,3 +121,5 @@ const data = {
     ]
 };
 export default data; 
+
+// export default Markers;
