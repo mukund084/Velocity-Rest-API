@@ -5,9 +5,9 @@ const Markers = [
         id: 1,
         x: 0,
         y:0,
-        image_url: 
-        description: 
-        location:
+        image_url: '',
+        description: '',
+        location: '',
 
     }
 ];
